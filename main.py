@@ -131,7 +131,7 @@ st.markdown("""
                 <div class="author-avatar">SJ</div>
                 <div class="author-info">
                     <h4>Anurag Tanwar</h4>
-                    <p>Founder & CEO, THEREAL_BIKANA Company</p>
+                    <p></p>
                 </div>
             </div>
         </div>
@@ -150,7 +150,7 @@ st.markdown("""
             <div class="testimonial-author">
                 <div class="author-avatar">TJ</div>
                 <div class="author-info">
-                    <h4>Thomas James</h4>
+                    <h4>Prem Chopra</h4>
                     <p>Marketing Director</p>
                 </div>
             </div>
